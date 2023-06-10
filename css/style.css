@@ -1,0 +1,15 @@
+#menu {
+    list-style-type: none;
+    font-size: 18px;
+}
+#menu li {
+    display: inline;
+}
+#menu > li > a {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+}
+#a {
+    background-color: transparent;
+}
